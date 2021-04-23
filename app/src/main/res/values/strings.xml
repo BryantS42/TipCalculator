@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MP1 Tip Calculator</string>
+    <string name="tip_percent">15%</string>
+    <string name="tip_label">Tip</string>
+    <string name="total_label">Total</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="action_info">Info</string>
+    <string name="action_share">Share</string>
+    <string name="spinner_txt">People</string>
+    <string name="per_person">Per Person</string>
+    <string name="radio_round">Round value?</string>
+    <string name="radio_no_text">No</string>
+    <string name="radio_tip_text">Tip</string>
+    <string name="radio_total_text">Total</string>
+
+    <string-array name="spinner_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
